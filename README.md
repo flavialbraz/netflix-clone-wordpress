@@ -1,5 +1,7 @@
 # 📼 Netflix Clone Wordpress
-![Previa](https://user-images.githubusercontent.com/78583429/208500938-0396dcc1-b3ee-49f9-8414-7d1210f60275.png)
+
+![Previa (1)](https://user-images.githubusercontent.com/78583429/208501237-0b016318-a830-4372-b91d-0ee141dc042d.png)
+
 
 
 <p align="center">
